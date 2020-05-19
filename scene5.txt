@@ -1,0 +1,16 @@
+a 19 19
+a 19 20
+a 19 21
+a 19 22
+a 19 23
+a 19 24
+a 20 24
+a 21 24
+a 22 23
+a 23 21
+a 23 20
+a 22 18
+a 20 18
+p
+
+Charles Kraemer- inspired by Heavyweight spaceship pattern on wikipedia
